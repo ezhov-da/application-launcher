@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <menuitem
+            name="Делим столбец"
+            keys="ctrl shift D"
+            class="ru.ezhov.columnparser.ColumnParser"
+    />
+    <!--
+    <menuitem
+        name="Собираем буфер обмена"
+        keys="ctrl shift Q"
+        class="ru.ezhov.copybuffer.PluginRunner"
+    />	
+    -->
+    <!--НЕ УДАЛЯТЬ-->
+    <refresh name="Refresh"/>
+    <exit name="Exit"/>
+    <!---->
+</strings>	
