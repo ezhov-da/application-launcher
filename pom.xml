@@ -5,7 +5,11 @@
     <groupId>ru.ezhov.application-launcher</groupId>
     <artifactId>application-launcher-desktop-app</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>application-test</module>
+        <module>application-gui</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>application-launcher-desktop-app</name>
     <url>http://maven.apache.org</url>

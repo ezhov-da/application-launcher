@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <strings>
     <menuitem
-            name="Делим столбец"
+            name="Тестовое приложение"
             keys="ctrl shift D"
-            class="ru.ezhov.columnparser.ColumnParser"
-    />
-    <!--
-    <menuitem
-        name="Собираем буфер обмена"
-        keys="ctrl shift Q"
-        class="ru.ezhov.copybuffer.PluginRunner"
-    />	
-    -->
+            class="ru.ezhov.application.launcher.App"/>
+
+
     <!--НЕ УДАЛЯТЬ-->
     <refresh name="Refresh"/>
     <exit name="Exit"/>
